@@ -1,4 +1,4 @@
-package test.portis.portispackageroot;
+package test.portis.portisserverroot;
 
 import static org.junit.Assert.*;
 
